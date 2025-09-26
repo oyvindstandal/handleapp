@@ -1,0 +1,14 @@
+app:
+  package: org.handleapp.shopping
+  label: HandleApp
+  version: 0.1.0
+  tizen-sdk: 8.0
+  ui-application: true
+  screen-orientation: landscape
+
+flutter:
+  target: lib/main.dart
+  enable-software-rendering: false
+
+profile:
+  device-profile: familyhub
