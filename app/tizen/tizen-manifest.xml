@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="org.handleapp.shopping" version="0.1.0" api-version="8">
+    <profile name="common"/>
+    <ui-application appid="org.handleapp.shopping" exec="HandleApp" multiple="false" nodisplay="false">
+        <label>HandleApp</label>
+        <icon>res/icons/app.png</icon>
+        <metadata key="flutter" value="true"/>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+    </privileges>
+</manifest>

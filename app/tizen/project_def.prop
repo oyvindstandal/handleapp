@@ -1,0 +1,7 @@
+APPNAME = HandleApp
+APPID = org.handleapp.shopping
+TYPE = uiapp
+PROFILE = common
+API_VERSION = 8
+SECURE_ID = b7QnIzsJ2W
+DISTRO = tizen
