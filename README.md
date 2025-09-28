@@ -1,5 +1,6 @@
 # Handleapp
 
+
 Dette repoet inneholder planleggingen og kildekoden for en kryssplattform
 handleapp som skal fungere på iOS, Samsung Family Hub (Tizen) og på sikt
 Hisense RQ760N4IFE.
